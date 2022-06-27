@@ -173,5 +173,5 @@ If that is impractical or impossible try to discuss the matter, don’t just let
 
 - Don’t over-work, it’s not productive, and it will come at the expense of social or exercise time, which are also important, 32 is the new 40. 4 hours of focused work like programming or maths + 1-2 for admin each day is already winning.
 
-[1] It is covered in “The Upside of Stress” by Kelly McGonigal.
-Also in a TED talk she gives here
+[1] It is covered in [The Upside of Stress](https://www.penguin.co.nz/books/the-upside-of-stress-9780091955267) by Kelly McGonigal.
+Also in [TED talk ](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend?language=en) she gave.
