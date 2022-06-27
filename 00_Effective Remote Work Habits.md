@@ -35,7 +35,7 @@ Try doing 2 hours first thing  06:00-08:00 in the winter -- so I get off to a mo
 ### Location ###
 Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
 
-### Traps to Avoid###
+### Traps to Avoid
 Social media! 
 Newspapers (or anything negative)
 Share prices & financials
@@ -44,7 +44,7 @@ Looking through old photos, or ruminating about past disappointments
 
 Try to respect these boundaries, but don't beat myself up when I break them.
 
-## Methods##
+## Methods
 - Music off for the serious stuff, or music without words (Classical, and/or traditional Asian, like Erhu Flute, or any language I don't understand well), or natural soundtracks like rain, bird-calls or ocean
 - Be proud of my efforts, enjoy the journey, don't focus on past outcomes or even get overly stressed about future outcomes.  I can only give 100%
 - Use a pomodoro timer, just don't let the app its self become a distraction
