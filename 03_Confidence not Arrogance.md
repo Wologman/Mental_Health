@@ -26,5 +26,5 @@ _“What you think of yourself is much more important than what people think of 
 * **Strava** I've got just 5 followers, they're all friends I know pretty well, and I don't need extra validation from, and I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
 * **DuoLingo**  It's addictive, ten times more productive than anything I could do on Facebook or Linkedin, I'm good at languages, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
 * Timing my swims out to the council bouy
-* Hitting the grade 5 downhill trails.  
+* Hitting the grade 5 downhill trails with fun people.  
 

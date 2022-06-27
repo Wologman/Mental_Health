@@ -54,11 +54,11 @@ Don’t have my work desk in my bedroom. It will harm both sleep and work produc
 - Limit the number of clients, and the amount of context switching. I think for me 3 clients is enough in any one year.
 
 ### Traps to Avoid
-Social media! 
-Newspapers (or anything negative)
-Negative people
-Share prices & financials
-Looking through old photos, or ruminating about past disappointments
-**Worrying about how I appear to others** -- Let them run their own race, I'll run mine
+- Social media! 
+- Newspapers (or anything negative)
+- Negative people
+- Share prices & financials
+- Looking through old photos, or ruminating about past disappointments
+- **Worrying about how I appear to others** -- Let them run their own race, I'll run mine
 
 Try to respect these boundaries, but don't beat myself up when I break them.

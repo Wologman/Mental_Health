@@ -1,7 +1,5 @@
 This idea seems to be resonating quite well with me.  I should explore it a bit further.  The key idea seems to be multipotentiality.  Just be careful I'm not going down some unnecessary rabit hole.
 
-[Global Assessment of Functioning](https://en.wikipedia.org/wiki/Global_Assessment_of_Functioning)
-
 [Intergifted](https://intergifted.com/)
 
 [This one is about career choices](https://giftedchallenges.blogspot.com/2017/04/choices-exclude-existential-burden-of.html)
