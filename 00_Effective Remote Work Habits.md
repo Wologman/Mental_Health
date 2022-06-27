@@ -1,0 +1,65 @@
+### Preparation
+30 minutes doing something calming.  Include some deep breathing somewhere peaceful. 
+Could just be having coffee on the beach, or bike up the Maitai.  Or stretching.  Or folding clothes while listening to music.  Clear the workspace of clutter, do anything really urgent, respond to any urgent messages.
+
+Get aerobic exercise early.  It gives me motivation and makes me feel good, reduces anxiety and uses up toxic cortisol.  But it's also OK to get an hour or two of work done first if it's cold outside!  Just get on with a run after.
+
+But do try to start work by 9:00 am at the latest.  So go to bed early enough, & **get up early enough**, in that order, no point being tired either!   It just makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
+
+### Flow
+It's all about achieving flow.  This idea was introduced by psychologist Mihaly Csikszentmihalyi, and is summarised in *Creativity: The Psychology of Discovery and Invention* by these nine elements: 
+
+1. There are clear goals every step of the way.   -- Good planning
+2. There is immediate feedback to one’s actions.   -- Take small steps, test ideas
+3. There is a balance between challenges and skills. -- Combine 1&2
+4.  Action and awareness are merged.    -- What I'm doing right now
+5.  Distractions are excluded from consciousness. -- Work on eliminating distractions
+6.  There is no worry of failure.  -- Build my confidence
+7.   Self-consciousness disappears.  -- By not seeking validation from others
+8.  The sense of time becomes distorted.  -- Yip, this is familair, time to be back there!
+9.  The activity becomes autotelic (having an end or purpose in itself)  -- Chose challenges I'm passionate about, to the extent I can.  The rest of the time remember it's all about the effort, not the result
+
+### Goals & Motivation
+- Chose work that has meaning to me, and only me.  Don't care about how others see me. 
+ I'm a fckng badass, I'm forging my own path.
+- Spend most of my time learning in areas I'm passionate about or good at.  Use that confidence to push myself into new things.
+
+### Schedule###
+**One** main goal for each day
+**Four hours of focussed work or study total** per day (not counting admin, trivial stuff)
+**One hour blocks**, ideally do two back to back if going well, then a gap.
+Do the admin in the middle, after achieving some feeling of flow already
+Don't put off the hard part until some progress is made
+Try doing 2 hours first thing  06:00-08:00 in the winter -- so I get off to a morale boost  Then go running as a reward!
+
+### Location ###
+Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
+
+### Traps to Avoid###
+Social media! 
+Newspapers (or anything negative)
+Share prices & financials
+Looking through old photos, or ruminating about past disappointments
+**Worrying about how I appear to others** -- Let them run their own race, I'll run mine
+
+Try to respect these boundaries, but don't beat myself up when I break them.
+
+## Methods##
+- Music off for the serious stuff, or music without words (Classical, and/or traditional Asian, like Erhu Flute, or any language I don't understand well), or natural soundtracks like rain, bird-calls or ocean
+- Be proud of my efforts, enjoy the journey, don't focus on past outcomes or even get overly stressed about future outcomes.  I can only give 100%
+- Use a pomodoro timer, just don't let the app its self become a distraction
+- Do small irritating chores as soon as I remember or notice them
+- If I really need a break, do something positive or productive.  Exercise, house cleaning, or practice a language on DuoLingo or read a book in French or Spanish.
+- Have a badass desk setup and a nice screen.  Get my IT systems running well.
+- Alternately upgrade Ubuntu on my two high powered machines, so one always has the latest release, and is stable and reliable by the time the second needs upgrading. Document the process well.
+- Keep data off the operating systems, use an external HDD, except when I need processing speed.  Backup to cloud
+- Stick to one IDE and get to know it really well.  
+- Get into the habit of writing BASH scripts for setting things up, so they can be easily replicated later, and the details are recorded for next time
+
+[**Refer to my earlier notes for specifically dealing with anxiety**](https://github.com/Wologman/Anxiety-Management-Techniques/blob/main/Anxiety%20Methods.pdf)
+
+
+
+
+
+
