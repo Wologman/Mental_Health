@@ -21,9 +21,9 @@ Notes from: *Multipotentiality, Giftedness and Career Choice: A review*, Rysiew,
 
 [From Puttylike Quiz](https://puttylike.com/quiz/)    Emilie Wapnick's website. Apparently I'm a mixed style multipotentialite. Mixed-style multipotentialites are characterised by the following:
 
--   Are happiest when they have a few different projects on their plate at any given time.
--   Love variety, but get overwhelmed when they have too much.
--   Sometimes go through periods where they are juggling a bunch of different projects and periods where they are deeply invested in a single thing.
+- Are happiest when they have a few different projects on their plate at any given time.
+- Love variety, but get overwhelmed when they have too much.
+- Sometimes go through periods where they are juggling a bunch of different projects and periods where they are deeply invested in a single thing.
 
 This resonates really well with me.
 

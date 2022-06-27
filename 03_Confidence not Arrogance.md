@@ -18,11 +18,13 @@ _“What you think of yourself is much more important than what people think of 
 12. Review and repeat.  -- Check myself to make sure I'm not drifting towards arrogance.
 
 **Traps to avoid**
-- Don't over-share on social-media.  It looks insecure, and it leaves me feeling anxious anyway.  Too much of this is definately the pathway to arrogance, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
+- Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and leaves me feeling anxious.  Too much of this is definately the pathway to arrogance, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
 - Don't over-share in texting conversations about my daily life and adventures.  It's almost as bad as the above.  Not quite, as it only affects the people I'm talking to, but anyway if I overdo this the effect is the same.
 - Comparing myself to others.  People always project only their best bits, so I'm guarenteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, climbing etc.
 
 **Wierd things that seem to work for me**
 * **Strava** I've got just 5 followers, they're all friends I know pretty well, and I don't need extra validation from, and I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
 * **DuoLingo**  It's addictive, ten times more productive than anything I could do on Facebook or Linkedin, I'm good at languages, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
+* Timing my swims out to the council bouy
+* Hitting the grade 5 downhill trails.  
 
