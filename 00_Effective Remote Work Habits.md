@@ -3,7 +3,7 @@ Get aerobic exercise early if practical.  It gives me motivation and makes me fe
 
 **30 minutes preparation** before focussed work doing something calming.  Include some deep breathing somewhere peaceful. Could just be having coffee on the beach, or bike up the Maitai.  Or stretching.  Or folding clothes while listening to music.  Clear the workspace of clutter, do anything really urgent, respond to any urgent messages.
 
-But do try to start work by 9:00 am at the latest.  So go to bed early enough, & get up early enough, in that order, no point being tired either!   It just makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
+But do try to start work by 9:00 am at the latest.  So go to bed early enough & get up early enough. In that order, no point being tired either!   An early start makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
 
 ### Flow
 It's all about achieving flow.  This idea was introduced by psychologist Mihaly Csikszentmihalyi, and is summarised in *Creativity: The Psychology of Discovery and Invention* by these nine elements: 
@@ -27,7 +27,7 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 - **Four hours of focussed work or study total** per day (not counting admin, trivial stuff)
 - **One hour blocks**, ideally do two back to back if going well, then a gap.
 - Do the admin in the middle, after achieving some feeling of flow already
-- Try doing 2 hours first thing  06:00-08:00 in the winter -- so I get off to a morale boost  Then go running as a reward!
+- Try doing 2 hours first thing  06:00-08:00 in the winter -- so I get off to a morale boost  Then go running as a reward!  Also note that my peak performance seems to be 16:00-18:00, so don't panick if I've not solved everything by 12!
 
 ### Location
 Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
@@ -49,7 +49,7 @@ Don’t have my work desk in my bedroom. It will harm both sleep and work produc
 
 ### Remote-Work Specific Anxiety
 - Regular communication with clients, supervisors and remote colleagues. Don’t delay asking for help from remote colleagues.
-- If possible find others working in similar fields to sociliase with, just so long as they meet the requirements in 1.4. Nelson AI guys and girls in my case, Angela, .
+- If possible find others working in similar fields to sociliase with, just so long as they are positive, motivated encouraging types.
 - Go easy on myself. People in normal office envonments only spend a fraction of 8 hours doing anything productive (3 hours is a widely quoted number from one UK survey). So don’t beat myself up over the productivity challenge, it’s normal.
 - Limit the number of clients, and the amount of context switching. I think for me 3 clients is enough in any one year.
 

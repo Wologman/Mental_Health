@@ -3,7 +3,7 @@
 It's OK to find this hard.  Everybody does, it's a skill in its own right. It can be mastered, but it takes some effort, patience and focus on good methods.  The reward for achieving this is quite good; I can always find other ways to socialise.  Or I can apply these same good habits in a normal office setting.
 
 ### Skill #1: Silencing inner demons and going with the flow
-Definately struggling with this one.  The nine elements of flow are: 
+The nine elements of flow are: 
 
 1. There are clear goals every step of the way. 
 2. There is immediate feedback to one’s actions. 

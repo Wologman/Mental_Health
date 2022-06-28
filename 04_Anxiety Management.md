@@ -139,17 +139,17 @@ needed for the tasks I’m worried about.
 
 **Confidence:** Practice the behaviour. If necessary practice in an environment where the consequences are lower.
 
-#### 1.11 Dealing with other people
-Confidence is precious, never let anyone tear mine down to boost their own ego. In work or personal life.  If someone like this gets to me again, walk away and never look back, she can sort herself out.
+#### 1.11 Dealing with other people or a partner
+Confidence is precious, never let anyone tear mine down to boost their own ego. Either In work or personal life.  If someone does this to me again, walk away and never look back, she can sort herself out.
 
-If that is impractical or impossible try to discuss the matter, don’t just let it slip. Refer to texts like “Non-violent communication” by M. Rosenberg. Enlist the support of others if appropriate. What ever I do, remember the problem is about them not about me. I don’t need to be someone’s emotional punching bag.
+If that is impractical or impossible try to discuss the matter, don’t just let it slip. Refer to texts like [Non-violent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) by M. Rosenberg. Enlist the support of others, or professionals if appropriate. What ever I do, remember the problem is about them not about me. I don’t need to be someone’s emotional punching bag.
 
 ### 2. Control Work Specific Anxiety
 - Recognize that some level of anxiety is normal, and will always be there. It means you care. Anxiety by its self is not unhealthy, unless you believe it is [1]. Learn to manage and accept some stress, use it to push yourself on.
 
 - Chose work that has meaning to me, as opposed to trying to impress others. It’s also better for self-esteem and confidence.
 
-  **Reason:** By needing to impress others your life is a constant competition to earn admiration and respect, one that you can never finish or win. You’re only as good as your last success. By contrast the mere effort of chasing meaning should be a source of pride, including my failures.
+  **Reason:** By needing to impress others your life is a constant competition to earn admiration and respect, one that you can never finish or win. You’re only as good as your last success. By contrast the mere effort of chasing meaning should be a source of pride for me, including my failures.
   
 - Understand the difference between sharing things I’ve done because I’m passionate about them, and boasting about my achievements to feel valued. The first is healthy, you’re encouraging others, sharing knowledge and being transparent. The second isn’t, (basically the same argument as in the previous point).
 
@@ -163,13 +163,13 @@ If that is impractical or impossible try to discuss the matter, don’t just let
 
 - Two TODO lists, one high priority, focus on one task at a time. One low priority, do those things when there is time to fill in to avoid panic about unexpected spare time. Otherwise don’t worry about them, they’re not important (yet).
 
-- Start on tasks that cause the most worry first (not necessarily the hardest) so they are over and you can stop worrying about them. Or use a prioritization matrix (not quite the same idea, but also good as it discourages avoidant behaviour).
+- Start on tasks that cause the most worry first (not necessarily the hardest) so they are over and I can stop worrying about them. Or use a prioritization matrix (not quite the same idea, but also good as it discourages avoidant behaviour).
 
 - If I’m really get stuck on a hard task, it may be better to move to an easy one to get something completed. Almost counter to the previous points, except that I’ve already tried the hard one, rather than avoid it, now time to feel like making progress. Then have another go at the hard one!
 
-- Avoid social media, and newspapers during work time. Try xkcd.com or Duo Lingo or similar if needing some distracting boost, just find something more positive.
+- Avoid social media, and newspapers during work time. Try [xkcd](https://xkcd.com/) or Duo Lingo or similar if needing some distracting boost, just find something more positive.
 
-- Take breaks after an hour, and get away from the screen during them. Use the super-productivity pomodoro timer if this helps.
+- Take a break after an hour, and get away from the screen during them. Use the super-productivity pomodoro timer if this helps.
 
 - Don’t over-work, it’s not productive, and it will come at the expense of social or exercise time, which are also important, 32 is the new 40. 4 hours of focused work like programming or maths + 1-2 for admin each day is already winning.
 

@@ -1,4 +1,6 @@
-This idea seems to be resonating quite well with me.  I should explore it a bit further.  The key idea seems to be multipotentiality.  Just be careful I'm not going down some unnecessary rabit hole.
+This concept seems to be resonating quite well with me.  I should explore it a bit further.  Just be careful I'm not going down some unnecessary rabit hole.  
+
+The key idea seems to be multipotentiality. Acknoledging it's OK to be good at lots of things, but not the best at any of them, is a positive feeling for me.   
 
 [Intergifted](https://intergifted.com/)
 
