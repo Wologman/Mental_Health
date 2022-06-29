@@ -1,6 +1,6 @@
 # Mental_Health
 
-I had a really rough time while I was transitioning to self-employed remote work. It was by far the worst year of my life, due mainly to some external factors. I found myself in an epic battle with anxiety and depression. I took 4 months off work completely to try and get on top of my health.
+I had a really rough time while I was transitioning to self-employed remote work. It was by far the worst year of my life, due mainly to some external factors. I found myself in an epic battle with anxiety and depression. I took 4 months off work recover my health and make sure it never happens again.
 
 Eventually I found it better to write up my own notes than keep distracting myself by searching the internet looking for answers.  
 
