@@ -1,6 +1,6 @@
 # Mental_Health
 
-I had a really awful time transitioning to self-employed remote work. 2021-22 was by far the worst year of my life, due mainly to some external factors. But working alone without a stable long term project definately compounded things. 
+I had a really awful time transitioning to self-employed remote work. It was by far the worst year of my life, due mainly to some external factors. But working alone without a stable long term project definately compounded things. 
 
 I found myself in an epic battle with anxiety and depression, and flying down to the Christchurch office just to be around my old mates. I took four months off paid work recover my mental health and make sure it never happens again. I'm still going to a therapist once a week, but have mostly recovered.  
 
