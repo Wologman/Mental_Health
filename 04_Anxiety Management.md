@@ -149,7 +149,7 @@ needed for the tasks I’m worried about.
 
 **Confidence:** Practice the behaviour. If necessary practice in an environment where the consequences are lower.
 
-#### 1.11 Coping with a difficult people
+#### 1.11 Coping with negative people
 Confidence is precious, never let anyone tear mine down to boost their own ego. Either In work or personal life. Before it gets to that try to discuss the matter, don’t just let it slip. Refer to texts like [Non-violent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) by M. Rosenberg. Enlist the support of professionals if appropriate. What ever I do, remember the problem isn't about me. 
 
 I don’t need to be someone’s emotional punching bag. Past misfortune is no justification for ongoing abuse. If a partner does this to me consistently, walk away and never look back, she can sort herself out.
