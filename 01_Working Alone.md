@@ -1,6 +1,8 @@
 [From here](https://creativecloud.adobe.com/discover/article/how-to-work-alone)
 
-It's OK to find this hard.  Everybody does, it's a skill in its own right. It can be mastered, but it takes some effort, patience and focus on good methods.  The reward for achieving this is quite good; I can always find other ways to socialise.  Or I can apply these same good habits in a normal office setting.
+It's OK to find this hard.  Everybody does, it's a skill in its own right. It can be mastered, but it takes some effort, patience and focus on good methods, and good levels of self-confidence.  
+
+The reward for achieving this is quite high. I can finally be free from missmatch between where the good jobs are, and where I can live.  I can always find other ways to socialise.  Or I can apply these same good habits in a normal office setting.
 
 ### Skill #1: Silencing inner demons and going with the flow
 The nine elements of flow are: 
@@ -15,7 +17,7 @@ The nine elements of flow are:
 8.  The sense of time becomes distorted. 
 9.  The activity becomes autotelic (having an end or purpose in itself)
 
-I've been struggling with (3) and (6), (7) I already discussed this list in [[01_Working Alone]] and discuss dealing with anxiety in [[04_Anxiety Management]] those and keep working on it.
+I've been struggling with (3) and (6), (7).  Much of which boils down to I'm in a new field, an I lost my confidence before I got started. I already discussed this list in [[01_Working Alone]] and discuss dealing with anxiety in [[04_Anxiety Management]] those and keep working on it.
 
 ### Skill #2: The ability to face distractions head on
 Recognise what the distractions are, and do what ever I can to keep them away.  Especially social media.  Make sure I'm logged out of all of it, and don't go near it during my focussed time.
