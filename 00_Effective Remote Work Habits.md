@@ -18,12 +18,15 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 
 1. There are clear goals every step of the way.   -- Good planning
 2. There is immediate feedback to one’s actions.   -- Take small steps, test ideas
-3. There is a balance between challenges and skills. -- Combine 1&2, also plan how to build up the skills first before I find a problem overwhelming.  And have really great note-taking habits so once I've figured out something, the knowledge is recorded.
-4.  Action and awareness are merged.    -- What I'm doing right now
+3. There is a balance between challenges and skills. 
+	- Combine 1&2, 
+	- Plan how to build up the skills first before I find a problem overwhelming.  
+	- Have really great note-taking habits so once I've figured out something, the knowledge is recorded.  I can feel confident I'm not re-learning every time.
+4  Action and awareness are merged.    -- Happens naturaly when you're focused
 5.  Distractions are excluded from consciousness. -- Work on eliminating distractions, but once the flow is achieved this is less of a barrier, I'll find it easier to stay away.
 6.  There is no worry of failure.  -- Build my confidence
-7.   Self-consciousness disappears.  -- By not seeking validation from others
-8.  The sense of time becomes distorted.  -- Yip, this is familair, time to be back there!
+7.   Self-consciousness disappears.  -- Don't seek validation from others
+7.  The sense of time becomes distorted.  -- Yip, this is familair, time to be back there!
 9.  The activity becomes autotelic (having an end or purpose in itself)  -- Chose challenges I'm passionate about, to the extent I can.  The rest of the time remember it's all about the effort, not the result
 
 ### Goals & Motivation

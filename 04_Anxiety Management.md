@@ -80,7 +80,7 @@ believable time-frame.
 **Reason:** So I can free my mind from the worry the rest of the day. Also as with all the
 methods in #5, 6 & 7, the neural pathways for these worries will diminish over time.
 
-### 1.8 Control Too Much Activity (TMA)
+#### 1.8 Control Too Much Activity (TMA)
 This is about managing quantity stress, by achieving balance rather than filling in time with an impossible list of goals that never get completed, compete with each other, so I feel always rushed and deprived of proper time out.
 
 **Method:** Identify and stop perfectionism
@@ -167,7 +167,7 @@ I don’t need to be someone’s emotional punching bag. Past misfortune is no j
 
 - If I’m really get stuck on a hard task, it may be better to move to an easy one to get something completed. Almost counter to the previous points, except that I’ve already tried the hard one, rather than avoid it, now time to feel like making progress. Then have another go at the hard one!
 
-- Avoid social media, and newspapers during work time. Try [xkcd](https://xkcd.com/) or Duo Lingo or similar if needing some distracting boost, just find something more positive.
+- Avoid social media, and newspapers during work time.  Better still avoid them completely for periods to get a break. Try [xkcd](https://xkcd.com/) or Duo Lingo or similar if needing some distracting boost, just find something more positive.
 
 - Take a break after an hour, and get away from the screen during them. Use the super-productivity pomodoro timer if this helps.
 

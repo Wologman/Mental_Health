@@ -6,7 +6,7 @@ _“What you think of yourself is much more important than what people think of 
 **Do these things**
 1. Be Sincere -- By being sincere I build trust and confidence in others
 2. Be approachable -- Remember & use people's names, engage in positive coversations, make eye contact, body language that neither intimidates nor shows disinterest.  Shoulders back, head up, arms open, straight posture, smiling, sensible distance.
-3. Surround myself with positive and confident people.  It's really important to be with these kind of people, and limit time with negative people that will put me down to boost their own hollow egos, or discourage new ideas.
+3. Surround myself with positive and confident people.  It's really important to be with these kind of people, and limit time with negative people that will put me down to boost their hollow egos, or discourage new ideas.
 4. Know my strengths -- My true strengths are where I get my self-worth, and I should recognise them, and enjoy devoting time to them.  Never let anybody idealise me as something else.
 5. Know my limitations -- Knowing when I'm out of my depth is acknowledging the chance for improvement.
 6. Be humble -- Avoid boasting, act modestly, but don't talk myself down either.
@@ -26,5 +26,5 @@ _“What you think of yourself is much more important than what people think of 
 * **Strava** I've got just 5 followers, they're all friends I know pretty well, and I don't need extra validation from. I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
 * **DuoLingo**  It's addictive, ten times more productive than anything I could do on Facebook or Linkedin, I'm good at languages, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
 * Timing & recording my swims out to the council bouy.  Just let my shoulder recover properly first.
-* Hitting the grade 5 downhills with fun people.  
+* Shredding the grade 5 downhills with fun people.  
 
