@@ -5,6 +5,14 @@ Get aerobic exercise early if practical.  It gives me motivation and makes me fe
 
 But do try to start work by 9:00 am at the latest.  So go to bed early enough & get up early enough. In that order, no point being tired either!   An early start makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
 
+### Schedule
+- **One** main goal for each day
+- **Four hours of focussed work or study total** per day (not counting admin, trivial stuff)
+- **One hour blocks**, ideally do two back to back with a 10 minute break.
+- Do the admin & main exercise in the middle, after achieving some feeling of flow already.  Give the mind a break, but enjoy the positive feeling of achievement.
+- **Winter**: Try doing 2 hours first thing  07:00-09:10 -- so I get off to a morale boost  Then go running as a reward!  Second block 14:00-16:10. Also note that my peak performance seems to be 16:00-18:00, so there's still time for a bonus block, or two if I'm feeling good, or a deadline approaching.
+- **Summer**: Trail run first, before the sun gets strong.  But otherwise much the same idea.  Get a solid block done as early as I can.
+
 ### Flow
 It's all about achieving flow.  This idea was introduced by psychologist Mihaly Csikszentmihalyi, and is summarised in *Creativity: The Psychology of Discovery and Invention* by these nine elements: 
 
@@ -21,14 +29,6 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 ### Goals & Motivation
 - Chose work that has meaning to me, and only me.  Don't care about how others see me. I'm a fckng badass, I'm forging my own path.
 - Spend most of my time learning in areas I'm passionate about or good at.  Use that confidence to push myself into new things.
-
-### Schedule
-- **One** main goal for each day
-- **Four hours of focussed work or study total** per day (not counting admin, trivial stuff)
-- **One hour blocks**, ideally do two back to back if going well, then a gap.
-- Do the admin in the middle, after achieving some feeling of flow already.  Give the mind a break, but enjoy the positive feeling of achievement.
-- **Winter**: Try doing 2 hours first thing  07:00-09:00 -- so I get off to a morale boost  Then go running as a reward!  Second block 14:00-16:00. Also note that my peak performance seems to be 16:00-18:00, so there's still time for a bonus stint if I'm feeling good, or a deadline approaching.
-- **Summer**: Run first, before the sun gets strong.  But otherwise much the same idea.  Get a solid block done as early as I can.
 
 ### Location
 - Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
@@ -57,7 +57,6 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 ### Traps to Avoid
 - Social media! 
 - Newspapers (or anything negative)
-- Negative or toxic people
 - Share prices & financials
 - Looking through old photos, or ruminating about past disappointments
 - **Worrying about how I appear to others** -- Let them run their own race, I'll run mine
