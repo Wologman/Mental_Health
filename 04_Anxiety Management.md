@@ -1,12 +1,10 @@
 ### 1. Ten Proven Methods for General Anxiety
-
 *Methods in this section were mostly from Margaret Wehenberg’s book “The 10 Best-Ever
 Anxiety Management Techniques”, second edition, 2018. The 1-4 are easy ones in the
 category of making your whole body relaxed and healthy, because it’s part of the nervous
 system and will help the brain to stay calm too. They should have nearly immediate effect.*
 
 #### 1.1 Control Intake
-
 **Method:** Reduce Sugar, alcohol, coffee.
 
 **Reason:** Helps to keep blood sugar stable, alcohol is a depressant, and effects sleep, coffee affects sleep and also directly fires up parts of the brain that contribute to anxiety.
@@ -18,13 +16,11 @@ each little ding releases a little dose of dopamine in your brain, so you wind u
 be at that new base level, and anxious without it.
 
 #### 1.2 Calming Breathing
-
 Deep slow breaths, using the diaphragm. Stomach out-breath in, ideally a time ratio of 1:2
 in/out. Do this to calm down when panicking or about to something that will be stressful.
 Also on a daily basis to help stay calm.
 
 #### 1.3 Practice Mindfulness
-
 **Methods:**
 
 • Try to practice observation of real time events without judging, just observe.
@@ -35,7 +31,6 @@ Also on a daily basis to help stay calm.
 happened yet or ruminating over past ones.
 
 #### 1.4 Rest and Relaxation
-
 **Method:** Aerobic exercise. I need this at least at the start of the day. The more the better.
 
 **Reason:** Uses up adrenaline & toxic cortisol from anxiety, improves blood flow to the brain
@@ -60,16 +55,13 @@ honest & fun people, regardless of their interests.
 *Methods 5,6 & 7 are similar in that they involve using the decision making part of the brain, the pre-frontal-cortex (PFC) to recognise patterns and tell your mind to change thoughts. They only work if you believe they will work and persist over months. In this way the neural pathways for those anxious thoughts diminish whilst others become stronger. Eventually the mind needs to spend less time and effort fighting off those anxious & negative thoughts.
 
 #### 1.5 Stop Catastrophising Thoughts
-
 **Method:** Learn to recognize catastrophising so I can use my PFC to tell myself to stop.
 Catastrophising is when your mind actively seeks out the worst case scenario and ruminates over it. Learn to recognise this, and that it is just a feeling, not a response to an actual problem, then tell myself to stop thinking about it.
 
 #### 1.6 Stop Anxious Thoughts
-
 Similar to #5, but not necessarily catastrophising, just the same anxious thoughts happening over and over again. In this case, I can prepare by recognising what these thoughts are, and having replacement thoughts ready for when they occur. Write down a table, and add to it as new thoughts become troublesome.
 
 #### 1.7 Contain Anxious Thoughts
-
 When #6 is out of reach, for example the risk might be real. (The project might run overtime, the software might be buggy, there might be unforeseen delays, the idea might not work...) In this case, there is no point pretending the risk isn’t there. Better to make effort can be made to contain the thoughts so as to minimise their impact.
 
 **Method:** Worry well, but only once.
@@ -89,7 +81,6 @@ believable time-frame.
 methods in #5, 6 & 7, the neural pathways for these worries will diminish over time.
 
 ### 1.8 Control Too Much Activity (TMA)
-
 This is about managing quantity stress, by achieving balance rather than filling in time with an impossible list of goals that never get completed, compete with each other, so I feel always rushed and deprived of proper time out.
 
 **Method:** Identify and stop perfectionism
@@ -117,7 +108,6 @@ priority task list, anything positive or productive.
 suddenly having some unexpected spare time by agonise over what to do with it.
 
 #### 1.9 Talk Myself into Changing Behaviour
-
 This is for when anxiety is holding me back from doing something. I need to challenge the
 anxious thoughts and get on with the thing in question. This can be done with some
 planning and the ABCD method. Write down the plan in a table.
@@ -149,13 +139,12 @@ needed for the tasks I’m worried about.
 
 **Confidence:** Practice the behaviour. If necessary practice in an environment where the consequences are lower.
 
-#### 1.11 Coping with negative people
+#### 1.11 Coping with toxic people
 Confidence is precious, never let anyone tear mine down to boost their own ego. Either In work or personal life. Before it gets to that try to discuss the matter, don’t just let it slip. Refer to texts like [Non-violent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) by M. Rosenberg. Enlist the support of professionals if appropriate. What ever I do, remember the problem isn't about me. 
 
-I don’t need to be someone’s emotional punching bag. Past misfortune is no justification for ongoing abuse. If a partner does this to me consistently, walk away and never look back, she can sort herself out.
+I don’t need to be someone’s emotional punching bag. Past misfortune is no justification for ongoing abuse. If a partner ever tries to do this to me and won't change, walk away and never look back, she can sort herself out.
 
 ### 2. Control Work Specific Anxiety
-
 - Recognize that some level of anxiety is normal, and will always be there. It means you care. Anxiety by its self is not unhealthy, unless you believe it is [1]. Learn to manage and accept some stress, use it to push yourself on.
 
 - Chose work that has meaning to me, as opposed to trying to impress others. It’s also better for self-esteem and confidence.

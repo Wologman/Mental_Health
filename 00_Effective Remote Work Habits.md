@@ -1,7 +1,7 @@
 ### Preparation
 Get aerobic exercise early if practical.  It gives me motivation and makes me feel good, reduces anxiety and uses up toxic cortisol.  But it's also OK to get an hour or two of work done first if it's cold or wet outside!  Just get on with a run after.
 
-**30 minutes preparation** before focussed work doing something calming.  Include some deep breathing somewhere peaceful. Could just be having coffee on the beach, or bike up the Maitai.  Or stretching.  Or folding clothes while listening to music.  Clear the workspace of clutter, do anything really urgent, respond to any urgent messages.
+**30 minutes preparation** before focussed work doing something calming.  Include some deep breathing somewhere peaceful, practice a foreign language, could just be having coffee on the beach, or bike up the Maitai, or stretching, or folding clothes while listening to music.  Clear the workspace of clutter, do anything really urgent, respond to any urgent messages.
 
 But do try to start work by 9:00 am at the latest.  So go to bed early enough & get up early enough. In that order, no point being tired either!   An early start makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
 
@@ -26,16 +26,17 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 - **One** main goal for each day
 - **Four hours of focussed work or study total** per day (not counting admin, trivial stuff)
 - **One hour blocks**, ideally do two back to back if going well, then a gap.
-- Do the admin in the middle, after achieving some feeling of flow already
-- Try doing 2 hours first thing  06:00-08:00 in the winter -- so I get off to a morale boost  Then go running as a reward!  Also note that my peak performance seems to be 16:00-18:00, so don't panick if I've not solved everything by 12!
+- Do the admin in the middle, after achieving some feeling of flow already.  Give the mind a break, but enjoy the positive feeling of achievement.
+- **Winter**: Try doing 2 hours first thing  07:00-09:00 -- so I get off to a morale boost  Then go running as a reward!  Second block 14:00-16:00. Also note that my peak performance seems to be 16:00-18:00, so there's still time for a bonus stint if I'm feeling good, or a deadline approaching.
+- **Summer**: Run first, before the sun gets strong.  But otherwise much the same idea.  Get a solid block done as early as I can.
 
 ### Location
-Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
-
-Don’t have my work desk in my bedroom. It will harm both sleep and work productivity.
+- Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
+- Don’t have my work desk in my bedroom. It will harm both sleep and work productivity.
+- Maybe some day I could do the back-garden studio thing part time.  This might be nice, especially if I could share it with someone else.
 
 ### Work Methods
-- Music off for the serious stuff, or music without words (Classical, and/or traditional Asian, like Erhu Flute, or any language I don't understand well), or natural soundtracks like rain, bird-calls or ocean
+- Music off for the serious stuff, or natural soundtracks like rain, bird-calls or ocean
 - Be proud of my efforts, enjoy the journey, don't focus on past outcomes or even get overly stressed about future outcomes.  I can only give 100%
 - Use a pomodoro timer, just don't let the app its self become a distraction
 - Do small irritating chores as soon as I remember or notice them
@@ -56,7 +57,7 @@ Don’t have my work desk in my bedroom. It will harm both sleep and work produc
 ### Traps to Avoid
 - Social media! 
 - Newspapers (or anything negative)
-- Negative people
+- Negative or toxic people
 - Share prices & financials
 - Looking through old photos, or ruminating about past disappointments
 - **Worrying about how I appear to others** -- Let them run their own race, I'll run mine
