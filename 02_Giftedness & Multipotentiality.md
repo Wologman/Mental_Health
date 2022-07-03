@@ -1,6 +1,6 @@
 This concept seems to be resonating quite well with me.  I should explore it a bit further.  Just be careful I'm not going down some unnecessary rabit hole.  
 
-The key idea seems to be multipotentiality. Acknowledge it's OK to be good at lots of things, but not the best at any of them, is a positive feeling for me.   
+The key idea seems to be multipotentiality. Acknowledge it's OK to be good at lots of things, but not the best at any of them, this is a positive feeling for me.   
 
 [Intergifted](https://intergifted.com/)
 
@@ -8,11 +8,9 @@ The key idea seems to be multipotentiality. Acknowledge it's OK to be good at lo
 
 [Some good resources here](https://puttylike.com/)
 
-This book might be interesting: 
-*Journey into your rainforest mind*  By Paula Prober
-Her blog post [here](https://rainforestmind.wordpress.com/2017/12/28/psychotherapy-and-giftedness/)
+This book might be interesting:  *Journey into your rainforest mind*  By Paula Prober. Her blog post [here](https://rainforestmind.wordpress.com/2017/12/28/psychotherapy-and-giftedness/)
 
-Notes from: *Multipotentiality, Giftedness and Career Choice: A review*, Rysiew, Shore and Leeb, Journal of counseling and development, October 1999.
+Notes from: *Multipotentiality, Giftedness and Career Choice: A review*, Rysiew, Shore and Leeb, Journal of counseling and development, October 1999:
 
 - The definition isn't consistantly agreed on, but is generally something like having high achievement across a wide range of interests.  Most people with high IQ have a reasonable level of multipotentiality, but it's not the same thing.
 - Most widely used definition *The ability to select and develop any number of competencies to a high level*
@@ -25,12 +23,9 @@ Notes from: *Multipotentiality, Giftedness and Career Choice: A review*, Rysiew,
 - Love variety, but get overwhelmed when they have too much.
 - Sometimes go through periods where they are juggling a bunch of different projects and periods where they are deeply invested in a single thing.
 
-This resonates really well with me.
+This resonates really well with me.  As a multipotentialite, I have cool superpowers, specific needs, and unique challenges. And there are so many other people like me! Actually it's 5% of humanity. 
 
-As a multipotentialite, I have cool superpowers, specific needs, and unique challenges. And there are so many other people like me! Actually it's 5% of humanity. 
-
-She also gave a great TED talk [here](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling)
-And wrote [this book](http://howtobeeverything.com/)
+She also gave a great TED talk [here](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling) And wrote [this book](http://howtobeeverything.com/)
 
 [This blog has some useful ideas for the topic of career choice](https://giftedchallenges.blogspot.com/2017/04/choices-exclude-existential-burden-of.html) Summarising:
 

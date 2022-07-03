@@ -3,7 +3,20 @@ When your confidence is at rock bottom, how to build it back up, without it turn
 _“What you think of yourself is much more important than what people think of you.”_
 ~ *Seneca* 
 
-**Do these things**
+This good table [from here](https://www.mindtools.com/selfconf.html)
+|Confident Behaviour |Behavior Associated with Low Self-Confidence |
+|:----|:----|
+|Doing what you believe to be right, even if others mock or criticize you for it | Governing your behavior based on what other people think |
+| Being willing to take risks and to go the extra mile to achieve better things| Staying in your comfort zone, fearing failure, and avoiding risk |
+| Admitting your mistakes and learning from them| Working hard to cover up mistakes and hoping that you can fix the problem before anyone notices |
+| Waiting for others to congratulate you on your accomplishments |Extolling your own virtues as often as possible to as many people as possible |
+| Accepting compliments (and criticism) graciously "Thanks, I really worked hard on that prospectus. I'm pleased you recognize my efforts" | Dismissing compliments offhandedly. "Oh, that prospectus was nothing, really. Anyone could have done it." |
+
+Actually that first column is usually me.  Never let anyone tell me otherwise, or feel bad about it!  I successfully challenged the world's largest carmaker before the ASA over their misleading advertising, while most others were greenwashed into praising them.
+
+Low self-confidence can be self-destructive, and may manifest itself as negativity. Self-confident people are generally more positive – they value themselves and trust their judgment. But they also acknowledge their failures and mistakes, and learn from them.
+
+#### Do these things
 1. Be Sincere -- By being sincere I build trust and confidence in others
 2. Be approachable -- Remember & use people's names, engage in positive coversations, make eye contact, body language that neither intimidates nor shows disinterest.  Shoulders back, head up, arms open, straight posture, smiling, sensible distance.
 3. Surround myself with positive and confident people.  It's really important to be with these kind of people, and limit time with negative people that will put me down to boost their hollow egos, or discourage new ideas.
@@ -17,14 +30,49 @@ _“What you think of yourself is much more important than what people think of 
 11. Be inspiring -- Let others be inspired, but without having to anounce yourself to them.
 12. Review and repeat.  -- Check myself to make sure I'm not drifting towards arrogance.
 
-**Traps to avoid**
-- Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and leaves me feeling anxious.  Too much of this is definately the pathway to arrogance, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
+Another good list for building up confidence, that's much simpler: 
+
+1. **Build Confident Habits** --
+	To develop and improve your self-esteem, aim to develop good habits – and break bad ones. Regular exercise and a healthy diet, sleep etc.  See the [[04_Anxiety Management]] section.  I think for me really the only one left is to improve my work habits and focus.  I've already learned enough from my other mistakes.
+	
+	Working on your [personal branding](https://www.mindtools.com/pages/article/what-is-personal-branding.htm) can also help. If you project a positive image of your authentic self, you'll likely start to receive the positive feedback that's so important to your self-confidence.  Just don't overdo this, for me it seems to become anxious habit on its own.
+	
+2. **Set confidence boosting goals** -- 
+	- Master OOP & take good notes
+	- First Kaggle bronze medal, or just keep improving
+	- Complete a real-world AI project
+	- Do a conservation related GIS project
+	- Get more fluent at French, Mandarin and Spanish.  Practice with real people
+	- Get really solid at Python development, build up code-snippets & document leanings
+	- Learn my way around VSCode more thoroughly
+	- Keep up my GitHub contributions, and get confortable doing it from command line
+	- Master the art of staying focused while working on my own
+	- Finish getting my GIS portfolio into a presentable state  
+		
+		**That's enough!**
+		
+3. **Review past achievements** -- "I can do this, and here's the evidence."  Just don't get hung up on how they look to others.  I'm about to enter my third really challenging tech field, hardly anybody does this!
+
+#### Traps to avoid
+- Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and leaves me feeling anxious.  Too much of this is definately the pathway to insecurity, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
 - Don't over-share in texting conversations about my daily life and adventures.  It's almost as bad as the above.  Not quite, as it only affects the people I'm talking to, but anyway if I overdo this the effect is the same.
 - Comparing myself to others.  People always project only their best bits, so I'm guarenteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, climbing etc.
 
-**Wierd things that seem to work for me**
+#### Wierd things that seem to work for me
 * **Strava** I've got just 5 followers, they're all friends I know pretty well, and I don't need extra validation from. I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
 * **DuoLingo**  It's addictive, ten times more productive than anything I could do on Facebook or Linkedin, I'm good at languages, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
-* Timing & recording my swims out to the council bouy.  Just let my shoulder recover properly first.
+* Timing & recording my swims out to the council bouy or around the harbour.  Just let my shoulder recover properly first.
 * Shredding the grade 5 downhills with fun people.  
 
+#### Rebuilding confidence at work
+[Copied and pasted from here](https://www.mindtools.com/selfconf.html)  This one cut's a little too close to the bone.  Wow, no wonder I'm struggling with this.  Imagine how awesome I'll be when I get through it!
+
+*Changes to the way they work and long periods away from work negatively impact many people's confidence. One study found that over a third of people returning to the workplace after a year or more away experience a loss of confidence in their own ability. You might struggle to make your voice heard in meetings, or feel lost or isolated without the company of your colleagues while working from home, for example.
+
+*To address dips in confidence, first try to identify the cause of the problem. If you feel that there are tasks you can't do, it makes sense to improve your skills. Carry out a [Personal SWOT Analysis](https://www.mindtools.com/pages/article/newTMC_05_1.htm)to identify your strengths and weaknesses. Then draw up an action plan to work on the areas where you're not so strong.
+
+*Other people's attitudes or behavior can contribute to your lack of confidence. You might feel that your co-workers make unfair assumptions about you. Maybe you're being bullied or are subject to microaggressions. If so, you need to call this behavior out.
+
+*You can use the [Situation-Behavior-Impact Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) to make it clear to the person responsible that their behavior is harmful. If you don't feel safe talking to them, seek help from your line manager. If they're part of the problem, speak to a team member, HR, or an employee support network if you have one. Workplace bullying or discrimination is never acceptable in any situation.
+
+*People with low self-confidence often feel that they don't deserve to be happy, and that it's somehow justifiable for others to treat them badly. While the feeling may be very real, the belief is certainly not!
