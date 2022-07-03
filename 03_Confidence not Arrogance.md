@@ -36,7 +36,6 @@ Another good list for building up confidence, that's much simpler:
 	To develop and improve your self-esteem, aim to develop good habits – and break bad ones. Regular exercise and a healthy diet, sleep etc.  See the [[04_Anxiety Management]] section.  I think for me really the only one left is to improve my work habits and focus.  I've already learned enough from my other mistakes.
 	
 	Working on your [personal branding](https://www.mindtools.com/pages/article/what-is-personal-branding.htm) can also help. If you project a positive image of your authentic self, you'll likely start to receive the positive feedback that's so important to your self-confidence.  Just don't overdo this, for me it seems to become anxious habit on its own.
-	
 2. **Set confidence boosting goals** -- 
 	- Master OOP & take good notes
 	- First Kaggle bronze medal, or just keep improving
@@ -48,9 +47,7 @@ Another good list for building up confidence, that's much simpler:
 	- Keep up my GitHub contributions, and get confortable doing it from command line
 	- Master the art of staying focused while working on my own
 	- Finish getting my GIS portfolio into a presentable state  
-		
 		**That's enough!**
-		
 3. **Review past achievements** -- "I can do this, and here's the evidence."  Just don't get hung up on how they look to others.  I'm about to enter my third really challenging tech field, hardly anybody does this!
 
 #### Traps to avoid
@@ -65,14 +62,14 @@ Another good list for building up confidence, that's much simpler:
 * Shredding the grade 5 downhills with fun people.  
 
 #### Rebuilding confidence at work
-[Copied and pasted from here](https://www.mindtools.com/selfconf.html)  This one cut's a little too close to the bone.  Wow, no wonder I'm struggling with this.  Imagine how awesome I'll be when I get through it!
+[Copied and pasted from here](https://www.mindtools.com/selfconf.html)  This one cut's a little too close to the bone.  Wow, no wonder I'm struggling with this!  But imagine how awesome I'll be when I get through it!
 
-*Changes to the way they work and long periods away from work negatively impact many people's confidence. One study found that over a third of people returning to the workplace after a year or more away experience a loss of confidence in their own ability. You might struggle to make your voice heard in meetings, or feel lost or isolated without the company of your colleagues while working from home, for example.
+*Changes to the way they work and long periods away from work negatively impact many people's confidence. One study found that over a third of people returning to the workplace after a year or more away experience a loss of confidence in their own ability. You might struggle to make your voice heard in meetings, or feel lost or isolated without the company of your colleagues while working from home, for example.*
 
-*To address dips in confidence, first try to identify the cause of the problem. If you feel that there are tasks you can't do, it makes sense to improve your skills. Carry out a [Personal SWOT Analysis](https://www.mindtools.com/pages/article/newTMC_05_1.htm)to identify your strengths and weaknesses. Then draw up an action plan to work on the areas where you're not so strong.
+*To address dips in confidence, first try to identify the cause of the problem. If you feel that there are tasks you can't do, it makes sense to improve your skills. Carry out a [Personal SWOT Analysis](https://www.mindtools.com/pages/article/newTMC_05_1.htm)to identify your strengths and weaknesses. Then draw up an action plan to work on the areas where you're not so strong.*
 
-*Other people's attitudes or behavior can contribute to your lack of confidence. You might feel that your co-workers make unfair assumptions about you. Maybe you're being bullied or are subject to microaggressions. If so, you need to call this behavior out.
+*Other people's attitudes or behavior can contribute to your lack of confidence. You might feel that your co-workers make unfair assumptions about you. Maybe you're being bullied or are subject to microaggressions. If so, you need to call this behavior out.*
 
-*You can use the [Situation-Behavior-Impact Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) to make it clear to the person responsible that their behavior is harmful. If you don't feel safe talking to them, seek help from your line manager. If they're part of the problem, speak to a team member, HR, or an employee support network if you have one. Workplace bullying or discrimination is never acceptable in any situation.
+*You can use the [Situation-Behavior-Impact Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) to make it clear to the person responsible that their behavior is harmful. If you don't feel safe talking to them, seek help from your line manager. If they're part of the problem, speak to a team member, HR, or an employee support network if you have one. Workplace bullying or discrimination is never acceptable in any situation.*
 
-*People with low self-confidence often feel that they don't deserve to be happy, and that it's somehow justifiable for others to treat them badly. While the feeling may be very real, the belief is certainly not!
+*People with low self-confidence often feel that they don't deserve to be happy, and that it's somehow justifiable for others to treat them badly. While the feeling may be very real, the belief is certainly not!*

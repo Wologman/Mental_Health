@@ -22,7 +22,7 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 	- Combine 1&2, 
 	- Plan how to build up the skills first before I find a problem overwhelming.  
 	- Have really great note-taking habits so once I've figured out something, the knowledge is recorded.  I can feel confident I'm not re-learning every time.
-4  Action and awareness are merged.    -- Happens naturaly when you're focused
+4. Action and awareness are merged.    -- Happens naturaly when you're focused
 5.  Distractions are excluded from consciousness. -- Work on eliminating distractions, but once the flow is achieved this is less of a barrier, I'll find it easier to stay away.
 6.  There is no worry of failure.  -- Build my confidence
 7.   Self-consciousness disappears.  -- Don't seek validation from others
