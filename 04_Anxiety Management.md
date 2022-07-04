@@ -52,7 +52,7 @@ honest & fun people, regardless of their interests.
 
 **Reason:** By hanging with positive people outside of my usual interests I’m allowing diversity, new ideas and positivity into my life, whilst contributing those things to others. I’m also improving my own resiliance to future setbacks and negative people, and countering any feelings of isolation.
 
-*Methods 5,6 & 7 are similar in that they involve using the decision making part of the brain, the pre-frontal-cortex (PFC) to recognise patterns and tell your mind to change thoughts. They only work if you believe they will work and persist over months. In this way the neural pathways for those anxious thoughts diminish whilst others become stronger. Eventually the mind needs to spend less time and effort fighting off those anxious & negative thoughts.
+*Methods 5,6 & 7 are similar in that they involve using the decision making part of the brain, the pre-frontal-cortex (PFC) to recognise patterns and tell your mind to change thoughts. They only work if you believe they will work and persist over months. In this way the neural pathways for those anxious thoughts diminish whilst others become stronger. Eventually the mind needs to spend less time and effort fighting off those anxious & negative thoughts.*
 
 #### 1.5 Stop Catastrophising Thoughts
 **Method:** Learn to recognize catastrophising so I can use my PFC to tell myself to stop.
@@ -81,7 +81,7 @@ believable time-frame.
 methods in #5, 6 & 7, the neural pathways for these worries will diminish over time.
 
 #### 1.8 Control Too Much Activity (TMA)
-This is about managing quantity stress, by achieving balance rather than filling in time with an impossible list of goals that never get completed, compete with each other, so I feel always rushed and deprived of proper time out.
+*This is about managing quantity stress, by achieving balance rather than filling in time with an impossible list of goals that never get completed, compete with each other, so I feel always rushed and deprived of proper time out.**
 
 **Method:** Identify and stop perfectionism
 • Plan for non-perfection, imagine a realistic outcome for tasks
@@ -108,9 +108,8 @@ priority task list, anything positive or productive.
 suddenly having some unexpected spare time by agonise over what to do with it.
 
 #### 1.9 Talk Myself into Changing Behaviour
-This is for when anxiety is holding me back from doing something. I need to challenge the
-anxious thoughts and get on with the thing in question. This can be done with some
-planning and the ABCD method. Write down the plan in a table.
+*This is for when anxiety is holding me back from doing something. I need to challenge the anxious thoughts and get on with the thing in question. This can be done with some
+planning and the ABCD method. Write down the plan in a table.*
 
 **A- Action:** Identify the action being considered
 Example: Start a Kaggle competition
