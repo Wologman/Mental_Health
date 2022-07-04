@@ -81,7 +81,7 @@ believable time-frame.
 methods in #5, 6 & 7, the neural pathways for these worries will diminish over time.
 
 #### 1.8 Control Too Much Activity (TMA)
-*This is about managing quantity stress, by achieving balance rather than filling in time with an impossible list of goals that never get completed, compete with each other, so I feel always rushed and deprived of proper time out.**
+*This is about managing quantity stress, by achieving balance rather than filling in time with an impossible list of goals that never get completed, compete with each other, so I feel always rushed and deprived of proper time out.*
 
 **Method:** Identify and stop perfectionism
 • Plan for non-perfection, imagine a realistic outcome for tasks
