@@ -139,9 +139,7 @@ needed for the tasks I’m worried about.
 **Confidence:** Practice the behaviour. If necessary practice in an environment where the consequences are lower.
 
 #### 1.11 Coping with toxic people
-Confidence is precious, never let anyone tear mine down to boost their own ego. Either In work or personal life. Before it gets to that try to discuss the matter, don’t just let it slip. Refer to texts like [Non-violent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) by M. Rosenberg. Enlist the support of professionals if appropriate. What ever I do, remember the problem isn't about me. 
-
-I don’t need to be someone’s emotional punching bag. Past misfortune is no justification for ongoing abuse. If a partner tries to do this to me again and won't change, walk away and never look back. She can sort herself out.
+Confidence is precious, never again let anyone tear mine down to boost their own ego. Either In work or personal life. Before it gets to that try to discuss the matter, don’t just let it slip. Refer to texts like [Non-violent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) by M. Rosenberg. Enlist the support of professionals if appropriate. What ever I do, remember the problem isn't about me. 
 
 ### 2. Control Work Specific Anxiety
 - Recognize that some level of anxiety is normal, and will always be there. It means you care. Anxiety by its self is not unhealthy, unless you believe it is [1]. Learn to manage and accept some stress, use it to push yourself on.

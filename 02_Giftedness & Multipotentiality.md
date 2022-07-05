@@ -1,6 +1,6 @@
 This concept seems to be resonating quite well with me.  I should explore it a bit further.  Just be careful I'm not going down some unnecessary rabit hole.  
 
-The key idea seems to be multipotentiality. Acknowledge it's OK to be good at lots of things, but not the best at any of them, this is a positive feeling for me.   
+The key idea seems to be multipotentiality. Acknowledge it's OK to be good at lots of things, but not the best at any of them.  And it's quite OK to have a windy and adaptive career, this is a positive feeling for me.   
 
 [Intergifted](https://intergifted.com/)
 
@@ -23,7 +23,7 @@ Notes from: *Multipotentiality, Giftedness and Career Choice: A review*, Rysiew,
 - Love variety, but get overwhelmed when they have too much.
 - Sometimes go through periods where they are juggling a bunch of different projects and periods where they are deeply invested in a single thing.
 
-This resonates really well with me.  As a multipotentialite, I have cool superpowers, specific needs, and unique challenges. And there are so many other people like me! Actually it's 5% of humanity. 
+This resonates really well with me.  As a multipotentialite, I have cool superpowers, specific needs, and unique challenges. And there are so many other people like me! Actually it's 5% of humanity, including some obvious others in my life.
 
 She also gave a great TED talk [here](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling) And wrote [this book](http://howtobeeverything.com/)
 

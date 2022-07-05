@@ -55,21 +55,8 @@ Another good list for building up confidence, that's much simpler:
 - Don't over-share in texting conversations about my daily life and adventures.  It's almost as bad as the above.  Not quite, as it only affects the people I'm talking to, but anyway if I overdo this the effect is the same.
 - Comparing myself to others.  People always project only their best bits, so I'm guarenteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, climbing etc.
 
-#### Wierd things that seem to work for me
+#### Wierd things that seem to work for me lately
 * **Strava** I've got just 5 followers, they're all friends I know pretty well, and I don't need extra validation from. I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
 * **DuoLingo**  It's addictive, ten times more productive than anything I could do on Facebook or Linkedin, I'm good at languages, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
 * Timing & recording my swims out to the council bouy or around the harbour.  Just let my shoulder recover properly first.
-* Shredding the grade 5 downhills with fun people.  
-
-#### Rebuilding confidence at work
-[Copied and pasted from here](https://www.mindtools.com/selfconf.html)  This one cut's a little too close to the bone.  Wow, no wonder I'm struggling with this!  But imagine how awesome I'll be when I get through it!
-
-*Changes to the way they work and long periods away from work negatively impact many people's confidence. One study found that over a third of people returning to the workplace after a year or more away experience a loss of confidence in their own ability. You might struggle to make your voice heard in meetings, or feel lost or isolated without the company of your colleagues while working from home, for example.*
-
-*To address dips in confidence, first try to identify the cause of the problem. If you feel that there are tasks you can't do, it makes sense to improve your skills. Carry out a [Personal SWOT Analysis](https://www.mindtools.com/pages/article/newTMC_05_1.htm)to identify your strengths and weaknesses. Then draw up an action plan to work on the areas where you're not so strong.*
-
-*Other people's attitudes or behavior can contribute to your lack of confidence. You might feel that your co-workers make unfair assumptions about you. Maybe you're being bullied or are subject to microaggressions. If so, you need to call this behavior out.*
-
-*You can use the [Situation-Behavior-Impact Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm) to make it clear to the person responsible that their behavior is harmful. If you don't feel safe talking to them, seek help from your line manager. If they're part of the problem, speak to a team member, HR, or an employee support network if you have one. Workplace bullying or discrimination is never acceptable in any situation.*
-
-*People with low self-confidence often feel that they don't deserve to be happy, and that it's somehow justifiable for others to treat them badly. While the feeling may be very real, the belief is certainly not!*
+* Shredding grade 5 downhills.  
