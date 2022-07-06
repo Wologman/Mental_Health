@@ -12,7 +12,7 @@ This good table [from here](https://www.mindtools.com/selfconf.html)
 | Waiting for others to congratulate you on your accomplishments |Extolling your own virtues as often as possible to as many people as possible |
 | Accepting compliments (and criticism) graciously "Thanks, I really worked hard on that prospectus. I'm pleased you recognize my efforts" | Dismissing compliments offhandedly. "Oh, that prospectus was nothing, really. Anyone could have done it." |
 
-Actually that first column is usually me, even now.  Never let anyone tell me otherwise, or feel bad about it my past efforts!  It's just that 'fearing failure', in the right hand columng I'm still having a hard time with for the time being.  Just be patient, it's not a competition.
+Actually that first column is usually me, even now.  Never let anyone tell me otherwise, or feel bad about it my past efforts!  It's just that 'fearing failure', in the right hand columng I've been having trouble with lately.  Just be patient, it's not a competition.
 
 Low self-confidence can be self-destructive, and may manifest itself as negativity. Self-confident people are generally more positive – they value themselves and trust their judgment. But they also acknowledge their failures and mistakes, and learn from them.
 
@@ -37,7 +37,7 @@ Another good list for building up confidence, that's much simpler:
 	
 	Working on your [personal branding](https://www.mindtools.com/pages/article/what-is-personal-branding.htm) can also help. If you project a positive image of your authentic self, you'll likely start to receive the positive feedback that's so important to your self-confidence.  Just don't overdo this, for me it seems to become anxious habit on its own.
 2. **Set confidence boosting goals** -- 
-	- Master OOP & take good notes
+	- Master OOP & make good notes
 	- First Kaggle bronze medal, or just keep improving
 	- Complete a real-world AI project
 	- Do a conservation related GIS project
@@ -48,7 +48,7 @@ Another good list for building up confidence, that's much simpler:
 	- Master the art of staying focused while working on my own
 	- Finish getting my GIS portfolio into a presentable state  
 		**That's enough for this year!**
-3. **Review past achievements** -- "I can do this, and here's the evidence."  Just don't get hung up on how they look to others.  I'm about to enter my third really challenging tech field, hardly anybody does this!
+3. **Review past achievements** -- "I can do this, and here's the evidence."  Just don't get hung up on how they look to others.  I'm about to enter my third really challenging tech field, hardly anybody does this, just be patient!
 
 #### Traps to avoid
 - Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and makes me feel anxious.  Too much of this is definately the pathway to insecurity, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
