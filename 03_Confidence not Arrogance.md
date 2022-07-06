@@ -12,7 +12,7 @@ This good table [from here](https://www.mindtools.com/selfconf.html)
 | Waiting for others to congratulate you on your accomplishments |Extolling your own virtues as often as possible to as many people as possible |
 | Accepting compliments (and criticism) graciously "Thanks, I really worked hard on that prospectus. I'm pleased you recognize my efforts" | Dismissing compliments offhandedly. "Oh, that prospectus was nothing, really. Anyone could have done it." |
 
-Actually that first column is usually me.  Never let anyone tell me otherwise, or feel bad about it!  I successfully challenged the world's largest carmaker before the ASA over their misleading advertising, while most others were greenwashed into praising them.
+Actually that first column is usually me, even now.  Never let anyone tell me otherwise, or feel bad about it my past efforts!  It's just that 'fearing failure', in the right hand columng I'm still having a hard time with for the time being.  Just be patient, it's not a competition.
 
 Low self-confidence can be self-destructive, and may manifest itself as negativity. Self-confident people are generally more positive – they value themselves and trust their judgment. But they also acknowledge their failures and mistakes, and learn from them.
 
@@ -47,16 +47,16 @@ Another good list for building up confidence, that's much simpler:
 	- Keep up my GitHub contributions, and get confortable doing it from command line
 	- Master the art of staying focused while working on my own
 	- Finish getting my GIS portfolio into a presentable state  
-		**That's enough!**
+		**That's enough for this year!**
 3. **Review past achievements** -- "I can do this, and here's the evidence."  Just don't get hung up on how they look to others.  I'm about to enter my third really challenging tech field, hardly anybody does this!
 
 #### Traps to avoid
-- Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and leaves me feeling anxious.  Too much of this is definately the pathway to insecurity, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
+- Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and makes me feel anxious.  Too much of this is definately the pathway to insecurity, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
 - Don't over-share in texting conversations about my daily life and adventures.  It's almost as bad as the above.  Not quite, as it only affects the people I'm talking to, but anyway if I overdo this the effect is the same.
-- Comparing myself to others.  People always project only their best bits, so I'm guarenteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, climbing etc.
+- Comparing myself to others.  People always project only their best bits, so I'm guarenteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, sailing, climbing etc.
 
 #### Wierd things that seem to work for me lately
-* **Strava** I've got just 5 followers, they're all friends I know pretty well, and I don't need extra validation from. I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
-* **DuoLingo**  It's addictive, ten times more productive than anything I could do on Facebook or Linkedin, I'm good at languages, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
+* **Strava** I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
+* **DuoLingo**  It's addictive, positive, productive, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
 * Timing & recording my swims out to the council bouy or around the harbour.  Just let my shoulder recover properly first.
 * Shredding grade 5 downhills.  
