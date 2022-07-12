@@ -2,7 +2,7 @@
 
 It's OK to find this hard.  Everybody does, it's a skill in its own right. It can be mastered, but it takes some effort, patience and focus on good methods, and good levels of self-confidence.  
 
-The reward for achieving this is quite high. I can finally be free from missmatch between where the good jobs are, and where I can live.  I can always find other ways to socialise.  Or I can apply these same good habits in a normal office setting.
+The reward for achieving this is quite high. I can be more flexible about any missmatch between where the good jobs are, and where I can live.  I can always find other ways to socialise.  Or I can apply these same good habits in a normal office setting.
 
 #### Skill #1: Silencing inner demons and going with the flow
 I already discussed this list in [[00_Effective Remote Work Habits]] and discuss dealing with anxiety in [[04_Anxiety Management]] those and keep working on it. The nine elements of flow are: 

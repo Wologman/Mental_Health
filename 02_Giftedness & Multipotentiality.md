@@ -1,6 +1,30 @@
-This concept seems to be resonating quite well with me.  I should explore it a bit further.  Just be careful I'm not going down some unnecessary rabit hole.  
+This concept seems to be resonating quite well with me.   The key idea seems to be acknowledge it's OK to be good at lots of things, but not the best at any of them.  And it's quite OK to have a windy and adaptive career, this is a positive feeling for me, I like variety and I'm a natural life-long learner.
 
-The key idea seems to be multipotentiality. Acknowledge it's OK to be good at lots of things, but not the best at any of them.  And it's quite OK to have a windy and adaptive career, this is a positive feeling for me.   
+Also by adopting some of these more flexible models I can meet all my goals without needing to do full time  remote.
+
+#### Structure of proposed work-life models
+The proposed models from [*How to be everything*](http://howtobeeverything.com/) are:
+
+- **The group hug** -- One really challenging job with loads of appreciation for varied skills, and room for growth.	I've always aimed for this, but for 12 years it felt out of reach for my for my combination of prefered locations, skills & interests.  This is how I've lost my way a bit.
+- **The Slash Career** -- Combine a bunch of different jobs at the same time, with different needs met by each into a satisfying lifestyle.  This wouldn't work for me, I would feel overwhelmed.
+- **The Einstein** -- A 'good enough' on-site job that is stimulating, meaningful & financially secure, but NOT pushing me to the limit. So I have time energy to persue other things the rest of my day or week. 
+- **The Phoenix** -- Dive really deep into each single career, but every few years change to something else.  Effectively what I've been doing by accident.  Could work, but the secret is ideally to start easing into the new thing, before finshing the last one.  Avoid dramatic down-time that can be soul destroying.
+
+
+#### So the winner for me is: The Einstein
+This seems like the best end-goal for me.  But I should stay open and mindful of the other models as opportunities come and go.
+
+**20 hours *good enough* on-site job** - Engineering, programming, GIS programming, machine-vision.  Needs to meet the need for human company, I just don't thrive doing full time remote.  Even if this means moving location, it's worth it.
+- **Enough renumeration** to make ends meet on it's own so I don't need to worry about finance.  Achievable with my modest lifestyle.
+- **Not draining** - Ideally 20 hours/week on-site in a friendly fun workplace.
+- **Something meaningful** So connected to something I feel good about.  Social justice, conservation, biodiversity, clean water, sanitation, clean energy, non-motorised, low impact urban planning, transport, sustainable food production.  All good things.
+
+**10 hours cutting edge** - Can be remote, paid or volunteer.  What ever I fancy since the world is my oyster for this.  Training, Kaggle comps, Compost club, ML for conservation & biodiversity, ML for CFD, tracking pirate fishing fleets with remote satellite imagery, building some of my long delayed home projects, heat engines, record setting bikes.
+
+**5 hours admin, networking & volunteering**  Things that are needed to keep the dream alive, make friends and remain involved in my local community.
+
+
+#### Other Notes & Resources
 
 [Intergifted](https://intergifted.com/)
 
@@ -8,7 +32,7 @@ The key idea seems to be multipotentiality. Acknowledge it's OK to be good at lo
 
 [Some good resources here](https://puttylike.com/)
 
-This book might be interesting:  *Journey into your rainforest mind*  By Paula Prober. Her blog post [here](https://rainforestmind.wordpress.com/2017/12/28/psychotherapy-and-giftedness/)
+[*Journey into your rainforest mind* ](https://rainforestmind.wordpress.com/2017/12/28/psychotherapy-and-giftedness/) By Paula Prober. 
 
 Notes from: *Multipotentiality, Giftedness and Career Choice: A review*, Rysiew, Shore and Leeb, Journal of counseling and development, October 1999:
 

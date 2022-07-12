@@ -52,11 +52,14 @@ Another good list for building up confidence, that's much simpler:
 
 #### Traps to avoid
 - Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and makes me feel anxious.  Too much of this is definately the pathway to insecurity, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
+- Actually, just  stay away from socialmedia in general.  There are better ways to make friends and contacts.  The  LinkedIn news feed is lethal for anxiety and confidence.
+- Corporate & academic HR departments.  These have never been a very effective way to find employment, and the processes themselves are usually ineffective and humiliating.
 - Don't over-share in texting conversations about my daily life and adventures.  It's almost as bad as the above.  Not quite, as it only affects the people I'm talking to, but anyway if I overdo this the effect is the same.
 - Comparing myself to others.  People always project only their best bits, so I'm guarenteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, sailing, climbing etc.
+- Toxic people.  Refer to [[06_Healthy Relationship Patterns]]
 
 #### Wierd things that seem to work for me lately
 * **Strava** I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
 * **DuoLingo**  It's addictive, positive, productive, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
 * Timing & recording my swims out to the council bouy or around the harbour.  Just let my shoulder recover properly first.
-* Shredding grade 5 downhills.  
+* Shredding grade-fives with fun folks.
