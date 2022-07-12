@@ -56,7 +56,7 @@ Another good list for building up confidence, that's much simpler:
 - Corporate & academic HR departments.  These have never been a very effective way to find employment, and the processes themselves are usually ineffective and humiliating.
 - Don't over-share in texting conversations about my daily life and adventures.  It's almost as bad as the above.  Not quite, as it only affects the people I'm talking to, but anyway if I overdo this the effect is the same.
 - Comparing myself to others.  People always project only their best bits, so I'm guarenteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, sailing, climbing etc.
-- Toxic people.  Refer to [[06_Healthy Relationship Patterns]]
+- Toxic people.  Refer to [[09_Red and Green Flags]]
 
 #### Wierd things that seem to work for me lately
 * **Strava** I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
