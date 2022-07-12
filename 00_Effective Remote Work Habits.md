@@ -6,12 +6,13 @@ Get aerobic exercise early if practical.  It gives me motivation and makes me fe
 But do try to start work by 9:00 am at the latest.  So go to bed early enough & get up early enough. In that order, no point being tired either!   An early start makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
 
 ### Schedule
-- **One** main goal for each day
-- **Four hours of focussed work or study total** per day (not counting admin, trivial stuff)
+- **One** main work goal for each day
 - **One hour blocks**, ideally do two back to back with a 10 minute break.
+- **First hour** is purely study.  Any topic at all, it helps to get me focussed
+- **Five hours total** of focussed work or study per day (not counting admin, meetings etc.)
 - Do the admin & main exercise in the middle, after achieving some feeling of flow already.  Give the mind a break, but enjoy the positive feeling of achievement.
-- **Winter**: Try doing 2 hours first thing  07:00-09:10 -- so I get off to a morale boost  Then go running as a reward!  Second block 14:00-16:10. Also note that my peak performance seems to be 16:00-18:00, so there's still time for a bonus block, or two if I'm feeling good, or a deadline approaching.
-- **Summer**: Trail run first, before the sun gets strong.  But otherwise much the same idea.  Get a solid block done as early as I can.
+- **Winter**: Try doing 1-2 hours first thing  07:00-09:10 -- so I get off to a morale boost  Then go running as a reward!  Also note that my peak performance seems to be 16:00-18:00, so there's still time for a bonus block, or two if I'm feeling good, or a deadline approaching.
+- **Summer**: Same idea, just get up at 06:00
 
 ### Flow
 It's all about achieving flow.  This idea was introduced by psychologist Mihaly Csikszentmihalyi, and is summarised in *Creativity: The Psychology of Discovery and Invention* by these nine elements: 
