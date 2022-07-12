@@ -17,7 +17,7 @@ This seems like the best end-goal for me.  But I should stay open and mindful of
 **20 hours *good enough* on-site job** - Engineering, programming, GIS programming, machine-vision.  Needs to meet the need for human company, I just don't thrive doing full time remote.  Even if this means moving location, it's worth it.
 - **Enough renumeration** to make ends meet on it's own so I don't need to worry about finance.  Achievable with my modest lifestyle.
 - **Not draining** - Ideally 20 hours/week on-site in a friendly fun workplace.
-- **Something meaningful** So connected to something I feel good about.  Social justice, conservation, biodiversity, clean water, sanitation, clean energy, non-motorised, low impact urban planning, transport, sustainable food production.  All good things.
+- **Something meaningful** So connected to something I feel good about.  Social justice, conservation, biodiversity, clean water, sanitation, clean energy, non-motorised transport, low impact urban planning, sustainable food production.  All good things.
 
 **10 hours cutting edge** - Can be remote, paid or volunteer.  What ever I fancy since the world is my oyster for this.  Training, Kaggle comps, Compost club, ML for conservation & biodiversity, ML for CFD, tracking pirate fishing fleets with remote satellite imagery, building some of my long delayed home projects, heat engines, record setting bikes.
 
