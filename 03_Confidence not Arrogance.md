@@ -35,12 +35,12 @@ Another good list for building up confidence, that's much simpler:
 1. **Build Confident Habits** --
 	To develop and improve your self-esteem, aim to develop good habits – and break bad ones. Regular exercise and a healthy diet, sleep etc.  See the [[04_Anxiety Management]] section.  I think for me really the only one left is to improve my work habits and focus.  I've already learned enough from my other mistakes.
 	
-	Working on your [personal branding](https://www.mindtools.com/pages/article/what-is-personal-branding.htm) can also help. If you project a positive image of your authentic self, you'll likely start to receive the positive feedback that's so important to your self-confidence.  Just don't overdo this, for me it seems to become anxious habit on its own.
+	Working on your [personal branding](https://www.creativeboom.com/tips/being-you-how-to-build-your-personal-brand-and-confidence-according-to-maggie-eyre/) can also help. If you project a positive image of your authentic self, you'll likely start to receive the positive feedback that's so important to your self-confidence.  Just don't overdo this, for me it tends to become anxious habit of its own.
 2. **Set confidence boosting goals** -- 
-	- Master OOP & make good notes
+	- Master OOP & make really good notes
 	- First Kaggle bronze medal, or just keep improving
 	- Complete a real-world AI project
-	- Do a conservation related GIS project
+	- Do a couple of conservation related GIS projects
 	- Get more fluent at French, Mandarin and Spanish.  Practice with real people
 	- Get really solid at Python development, build up code-snippets & document leanings
 	- Learn my way around VSCode more thoroughly

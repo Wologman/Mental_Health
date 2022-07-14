@@ -12,7 +12,7 @@ The proposed models from [*How to be everything*](http://howtobeeverything.com/)
 
 
 #### So the winner for me is: The Einstein
-This seems like the best end-goal for me.  But I should stay open and mindful of the other models as opportunities come and go.
+This seems like the best end-goal for me.  But I should stay open and mindful of the other models as opportunities come and go.  For example today's *cutting edge* thing, can be tomorrow's *good enough* thing.  Then I can start something new for the cutting edge.  So it's a mix of Einstein and Phoenix.
 
 **20 hours *good enough* on-site job** - Engineering, programming, GIS programming, machine-vision.  Needs to meet the need for human company, I just don't thrive doing full time remote.  Even if this means moving location, it's worth it.
 - **Enough renumeration** to make ends meet on it's own so I don't need to worry about finance.  Achievable with my modest lifestyle.
@@ -23,6 +23,7 @@ This seems like the best end-goal for me.  But I should stay open and mindful of
 
 **5 hours admin, networking & volunteering**  Things that are needed to keep the dream alive, make friends and remain involved in my local community.
 
+The thing I'm always going to struggle with to some extent is that I like doing practical/experimental/fieldwork type things, as opposed to purely computer work.  I should take every chance I get to blend this into the above three to get some hands-on time.
 
 #### Other Notes & Resources
 
