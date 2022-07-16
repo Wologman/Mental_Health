@@ -27,8 +27,8 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 5.  Distractions are excluded from consciousness. -- Work on eliminating distractions, but once the flow is achieved this is less of a barrier, I'll find it easier to stay away.
 6.  There is no worry of failure.  -- Build my confidence
 7.   Self-consciousness disappears.  -- Don't seek validation from others
-7.  The sense of time becomes distorted.  -- Yip, this is familair, time to be back there!
-9.  The activity becomes autotelic (having an end or purpose in itself)  -- Chose challenges I'm passionate about, to the extent I can.  The rest of the time remember it's all about the effort, not the result
+7.  The sense of time becomes distorted.  -- Yip, this is familiar, time to be back there!
+9.  The activity becomes autotelic (having an end or purpose in itself) -- Chose challenges I'm passionate about, to the extent I can.  The rest of the time, remember it's all about the effort, not the result
 
 ### Goals & Motivation
 - Chose work that has meaning to me, and only me.  Don't care about how others see me. I'm a fckng badass, I'm forging my own path.
@@ -37,24 +37,24 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 ### Location
 - Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
 - Don’t have my work desk in my bedroom. It will harm both sleep and work productivity.
-- Maybe some day I could do the back-garden studio thing part time.  This might be nice, especially if I could share it with someone else.
+- Maybe some day I could do the back-garden studio thing part-time.  This might be nice, especially if I could share it with someone else.
 
 ### Work Methods
 - Music off for the serious stuff, or natural soundtracks like rain, bird-calls or ocean
 - Be proud of my efforts, enjoy the journey, don't focus on past outcomes or even get overly stressed about future outcomes.  I can only give 100%
 - Use a pomodoro timer, just don't let the app its self become a distraction
 - Do small irritating chores as soon as I remember or notice them
-- Don't put off the hard parts until some progress is made or I'm just too tired
-- If I really need a break, do something positive or productive.  Exercise, house cleaning, or practice a language on DuoLingo or read a book in French or Spanish.
+- Don't put off the hard parts until some progress is made, or I'm just too tired
+- If I really need a break, do something positive or productive.  Exercise, house cleaning, or practice a language on Duo Lingo or read a book in French or Spanish.
 - Have a badass desk setup and a nice screen.  Get my IT systems running well.
-- Alternately upgrade Ubuntu on my two high powered machines, so one always has the latest release, and is stable and reliable by the time the second needs upgrading. Document the process well.
+- Alternately upgrade Ubuntu on my two high-powered machines, so one always has the latest release, and is stable and reliable by the time the second needs upgrading. Document the process well.
 - Get into the habit of writing BASH scripts for setting things up, so they can be easily replicated later, and the details are recorded for next time
 - Keep data off the operating systems, use an external HDD, except when I need processing speed.  Backup to cloud
 - Stick to one IDE and get to know it really well.  
 
 ### Remote-Work Specific Anxiety
 - Regular communication with clients, supervisors and remote colleagues. Don’t delay asking for help from remote colleagues.
-- If possible find others working in similar fields to sociliase with, just so long as they are positive, motivated encouraging types.
+- If possible find others working in similar fields to socialise with, just so long as they are positive, motivated encouraging types.
 - Go easy on myself. People in normal office envonments only spend a fraction of 8 hours doing anything productive (3 hours is a widely quoted number from one UK survey). So don’t beat myself up over the productivity challenge, it’s normal.
 - Limit the number of clients, and the amount of context switching. I think for me 3 clients is enough in any one year.
 
@@ -63,6 +63,6 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 - Newspapers (or anything negative)
 - Share prices & financials
 - Looking through old photos, or ruminating about past disappointments
-- **Worrying about how I appear to others** -- Let them run their own race, I'll run mine
+- Worrying about how I appear to others -- Let them run their own race, I'll run mine
 
 Try to respect these boundaries, but don't beat myself up when I break them.
