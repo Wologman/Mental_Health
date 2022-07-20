@@ -1,9 +1,9 @@
 ### Preparation
 Get aerobic exercise early if practical.  It gives me motivation and makes me feel good, reduces anxiety and uses up toxic cortisol.  But it's also OK to get an hour or two of work done first if it's cold or wet outside!  Just get on with a run after.
 
-**30 minutes preparation** before focussed work doing something calming.  Include some deep breathing somewhere peaceful, practice a foreign language, could just be having coffee on the beach, or bike up the Maitai, or stretching, or folding clothes while listening to music.  Clear the workspace of clutter, do anything really urgent, respond to any urgent messages.
+**10-30 minutes mental preparation** before focussed work doing something calming.  Include some deep breathing somewhere peaceful, practice a foreign language, could just be having coffee on the beach, or bike up the Maitai, or stretching, or folding clothes while listening to music.  Clear the workspace of clutter, do anything really urgent, respond to any urgent messages.
 
-But do try to start work by 9:00 am at the latest.  So go to bed early enough & get up early enough. In that order, no point being tired either!   An early start makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
+But do try to start work by 9:00 am at the latest.  So go to bed early enough & get up early enough. In that order, no point being tired either!  An early start makes the day less pressured, and I don't find myself upset I've not done anything meaningful before lunch.
 
 ### Schedule
 - **One** main work goal for each day
@@ -11,28 +11,29 @@ But do try to start work by 9:00 am at the latest.  So go to bed early enough & 
 - **First hour** is purely study.  Any topic at all, it helps to get me focussed
 - **Five hours total** of focussed work or study per day (not counting admin, meetings etc.)
 - Do the admin & main exercise in the middle, after achieving some feeling of flow already.  Give the mind a break, but enjoy the positive feeling of achievement.
-- **Winter**: Try doing 1-2 hours first thing  07:00-09:10 -- so I get off to a morale boost  Then go running as a reward!  Also note that my peak performance seems to be 16:00-18:00, so there's still time for a bonus block, or two if I'm feeling good, or a deadline approaching.
+- **Winter**: Try doing 1-2 hours first thing 07:00-09:10 -- so I get off to a morale boost. Then go running as a reward!  Also note that my peak performance seems to be 16:00-18:00, so there's still time for a bonus block, or two if I'm feeling good, or a deadline approaching.
 - **Summer**: Same idea, just get up at 06:00
 
 ### Flow
 It's all about achieving flow.  This idea was introduced by psychologist Mihaly Csikszentmihalyi, and is summarised in *Creativity: The Psychology of Discovery and Invention* by these nine elements: 
 
-1. There are clear goals every step of the way.   -- Good planning
-2. There is immediate feedback to one’s actions.   -- Take small steps, test ideas
+1. There are clear goals every step of the way.  -- Good planning
+2. There is immediate feedback to one’s actions.  -- Take small steps, test ideas
 3. There is a balance between challenges and skills. 
 	- Combine 1&2, 
 	- Plan how to build up the skills first before I find a problem overwhelming.  
-	- Have really great note-taking habits so once I've figured out something, the knowledge is recorded.  I can feel confident I'm not re-learning every time.
-4. Action and awareness are merged.    -- Happens naturaly when you're focused
+	- Have really great note-taking habits, so once I've figured out something, the knowledge is recorded.  I can feel confident I'm not re-learning every time.
+4. Action and awareness are merged.  -- Happens naturally when you're focused
 5.  Distractions are excluded from consciousness. -- Work on eliminating distractions, but once the flow is achieved this is less of a barrier, I'll find it easier to stay away.
 6.  There is no worry of failure.  -- Build my confidence
 7.   Self-consciousness disappears.  -- Don't seek validation from others
-7.  The sense of time becomes distorted.  -- Yip, this is familiar, time to be back there!
+7.  The sense of time becomes distorted. -- This is a familiar feeling, time to be back there!
 9.  The activity becomes autotelic (having an end or purpose in itself) -- Chose challenges I'm passionate about, to the extent I can.  The rest of the time, remember it's all about the effort, not the result
 
 ### Goals & Motivation
 - Chose work that has meaning to me, and only me.  Don't care about how others see me. I'm a fckng badass, I'm forging my own path.
 - Spend most of my time learning in areas I'm passionate about or good at.  Use that confidence to push myself into new things.
+- Just remember this isn't permanent.  I'll find a normal job some day, but this is a great way to fill in gaps and build skills whilst staying settled where I am.
 
 ### Location
 - Use a co-work space, staying home is lonely.  The extra cost is trivial compared to lost productivity.  Have confidence to spend some money to make this business work well.
