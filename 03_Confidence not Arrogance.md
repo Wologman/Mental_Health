@@ -19,7 +19,7 @@ Low self-confidence can be self-destructive, and may manifest itself as negativi
 #### Do these things
 1. Be Sincere -- By being sincere I build trust and confidence in others
 2. Be approachable -- Remember & use people's names, engage in positive conversations, make eye contact, body language that neither intimidates nor shows disinterest.  Shoulders back, head up, arms open, straight posture, smiling, sensible distance.
-3. Surround myself with positive and confident people.  It's really important to be with these kinds of people, and limit time with negative ones that will put me down to boost their hollow egos, or discourage new ideas.
+3. Surround myself with positive and confident people.  It's really important to be with these kinds of people. And limit time with negative ones that will put me down to boost their egos, or discourage new ideas.
 4. Know my strengths -- My true strengths are where I get my self-worth, and I should recognise them, and enjoy devoting time to them.  Never let anybody idealise me as something else.
 5. Know my limitations -- Knowing when I'm out of my depth is acknowledging the chance for improvement.
 6. Be humble -- Avoid boasting, act modestly, but don't talk myself down either.
@@ -53,12 +53,12 @@ Low self-confidence can be self-destructive, and may manifest itself as negativi
 #### Traps to avoid
 - Don't over-share on social-media, or even get hooked into public conversations.  It looks insecure, and makes me feel anxious.  Too much of this is definitely the pathway to insecurity, none at all is quite OK. People that want to know more about me can always ask, or look me up in a multitude of ways.
 - Actually, just  stay away from social media in general.  There are better ways to make friends and contacts.  The  LinkedIn news feed is lethal for anxiety and confidence.
-- Corporate & academic HR departments.  These have never been a very effective way to find employment, and the processes themselves are usually ineffective and humiliating.
 - Don't over-share in texting conversations about my daily life and adventures.  It's almost as bad as the above.  Not quite, as it only affects the people I'm talking to, but anyway if I overdo this the effect is the same.
+- Corporate & academic HR departments.  These have never been a very effective way to find employment, and the processes themselves are usually ineffective and humiliating.
 - Comparing myself to others.  People always project only their best bits, so I'm guaranteed to feel worse by making silly comparisons.  Especially when I have more diverse interests than anyone else.  Just focus on my own strengths instead.  Eg. beating my own Strava times is really more meaningful than fussing over where I am on any leaderboard.  The same goes for Kaggle competitions, learning goals, mountain biking, ocean swimming, sailing, climbing etc.
 
 #### Wierd things that seem to work for me lately
 * **Strava** I'm mainly just trying to beat my own time up and down the Maitai Dam.  This is good for internal confidence to enjoy watching my fitness improve.
-* **Duo Lingo**  It's addictive, positive, productive, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue, and on the app I'm competing with imaginary people who have never heard of me and I'll never know.
+* **Duo Lingo**  It's addictive, positive, productive, I enjoy learning, I like the confidence that comes with conversing with new people in another tongue.
 * Timing & recording my swims out to the council bouy or around the harbour.  Just let my shoulder recover properly first.
-* Shredding grade-fives with fun folks.
+* Shredding downhill trails with Angela or Karyn.
