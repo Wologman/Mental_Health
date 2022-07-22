@@ -103,7 +103,7 @@ priority task list, anything positive or productive.
 **Reason:** As with the previous method, it is important to avoid the low that comes with
 suddenly having some unexpected spare time by agonise over what to do with it.
 
-#### 1.9 Talk Myself into Changing Behaviour
+#### 1.9 Talk Myself Into Changing Behaviour
 *This is for when anxiety is holding me back from doing something. I need to challenge the anxious thoughts and get on with the thing in question. This can be done with some
 planning and the ABCD method. Write down the plan in a table.*
 
@@ -135,7 +135,7 @@ needed for the tasks I’m worried about.
 **Confidence:** Practice the behaviour. If necessary, practice in an environment where the consequences are lower.
 
 #### 1.11 Coping with toxic people
-Confidence is precious, never again will I let someone tear mine down to boost their own ego. Either In work or personal life. Before it gets to that, try to discuss the matter, don’t just let it slip. Refer to texts like [Non-violent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) by M. Rosenberg. Enlist the support of professionals if appropriate. What ever I do, remember the problem isn't about me. 
+Confidence is precious. Never again will I let someone tear mine down to boost their own ego. Either In work or personal life. Before it gets to that, try to discuss the matter, don’t just let it slip. Refer to texts like [Non-violent communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) by M. Rosenberg. Enlist the support of professionals if appropriate. What ever I do, remember the problem isn't about me. 
 
 ### 2. Control Work Specific Anxiety
 - Recognise that some level of anxiety is normal, and will always be there. It means you care. Anxiety by its self is not unhealthy, unless you believe it is [1]. Learn to manage and accept some stress, use it to push yourself on.
@@ -162,7 +162,7 @@ Confidence is precious, never again will I let someone tear mine down to boost t
 
 - Avoid social media, and newspapers during work time.  Better still avoid them completely for periods to get a break. Try [xkcd](https://xkcd.com/) or Duo Lingo or similar if needing some distracting boost, just find something more positive.
 
-- Take a break after an hour, and get away from the screen during them. Use the super-productivity pomodoro timer if this helps.
+- Take a break after an hour, and get away from the screen during them. Use a simple pomodoro timer if this helps.
 
 - Don’t over-work, it’s not productive, and it will come at the expense of social or exercise time, which are also important, 32 is the new 40. Four hours of focused work like programming or maths + 1-2 for admin each day is already winning.
 

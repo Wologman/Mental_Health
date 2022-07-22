@@ -43,7 +43,7 @@ It's all about achieving flow.  This idea was introduced by psychologist Mihaly 
 ### Work Methods
 - Music off for the serious stuff, or natural soundtracks like rain, bird-calls or ocean
 - Be proud of my efforts, enjoy the journey, don't focus on past outcomes or even get overly stressed about future outcomes.  I can only give 100%
-- Use a pomodoro timer, just don't let the app its self become a distraction
+- Use a simple pomodoro timer, just don't let the app its self become a distraction
 - Do small irritating chores as soon as I remember or notice them
 - Don't put off the hard parts until some progress is made, or I'm just too tired
 - If I really need a break, do something positive or productive.  Exercise, house cleaning, or practice a language on Duo Lingo or read a book in French or Spanish.
